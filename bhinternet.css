@@ -1,0 +1,204 @@
+#blocPage
+{
+	width: 1086px;
+	margin: auto;
+}
+
+#enTetePrincipal
+{
+	display: flex;
+	
+	justify-content: space-between;
+}
+
+#enTeteGauche
+{
+	display: flex;
+	justify-content: space-between;	
+	
+}
+
+#navbarListe
+{
+	
+	display: flex;
+	justify-content : space-around;
+	width: 700px;
+	list-style-type: none;
+	font-size: 30px;
+	
+}
+
+#text
+{
+	width: 986px;
+	height: 281px;
+	background-color: black;
+	opacity: 60%;
+	border-radius: 20px;
+	position: absolute;
+	top : 200px;
+	left: 220px;
+}
+
+#titre
+{
+	font-weight: bold;
+	font-size: 25px;
+	color: white;
+	position: absolute;
+	top: 235px;
+	left: 450px;
+	text-align: center;
+}
+
+#imgBaniere
+{
+	box-shadow: 6px 6px 10px black;
+}
+
+
+#formulaire
+{
+	display: flex;
+	justify-content: space-around;
+	color: white;
+	position: absolute;
+	top: 290px;
+	left: 270px;
+	
+}
+
+label
+{
+	font-style: bold;
+}
+
+#estimation
+{
+	background-color: orange;
+	color: white;
+	text-align: center;
+	display: inline;
+	padding-left: 2%;
+	padding-right: 2%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	position: absolute;
+	top: 50%;
+	left: 600px;
+	border-radius: 5%;
+}
+
+section
+{
+	width: 986px;
+	margin: auto;
+}
+
+
+#images1
+{
+	margin-top: 30px;
+}
+
+
+h3
+{
+	color: #49afcd;
+}
+
+#articleNumero1
+{
+	display: flex;
+}
+
+
+#article1
+{
+	margin-left: 10px;
+	width: 70%;
+	
+}
+
+
+
+#titreBleu
+{
+	color: white;
+	width: 300px;
+	padding-left: 40px;
+	position: absolute;
+	top: 130px;
+	left: 900px;
+	background-color: #49afcd;
+}
+
+#blue
+{
+	color: #49afcd;
+}
+
+#background
+{
+	background-color: grey;
+	color: white;
+}
+
+
+#devis
+{
+	
+	width: 350px;
+	margin-left: 0px;
+}
+
+section 
+{
+	display: flex;
+
+}
+
+#DevisOrange
+{
+	background-color: orange;
+	color: white;
+	height: 30px;
+	padding-top: 2%;
+	padding-bottom: 1%;
+
+}
+
+
+
+
+hr
+{
+	width: 80%;
+}
+
+
+#fort
+{
+text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
